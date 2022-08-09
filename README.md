@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=vvduth&show_icons=true&theme=tokyonight" alt="Panosru's github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvduth&theme=tokyonight" alt="Top Langs" />
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vvduth&theme=react-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvduth&langs_count=10&theme=tokyo&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vvduth&show_icons=true&theme=tokyo)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvduth&theme=tokyo)
 
 
