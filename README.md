@@ -1,5 +1,5 @@
-### Hi guys 👋
-
+<h1 align="center">Greeting from me 👋</h1>
+<h3 align="center">Baller ⚽, Dev/Engineer, Hustler</h3>
 <!--
 **vvduth/vvduth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
