@@ -1,4 +1,4 @@
-<h1 align="center">Greeting from me 👋</h1>
+<h1 align="center">Greeting👋</h1>
 <h3 align="center">Baller ⚽, Dev/Engineer, Hustler</h3>
 
 
