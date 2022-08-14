@@ -1,7 +1,7 @@
 <h1 align="center">Greeting👋</h1>
 <h3 align="center">Baller ⚽, Dev/Engineer, Hustler</h3>
 
-<a href="https://github.com/Posandu">
+<a href="https://github.com/vvduth">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/vvduth?style=social">
 </a>
 
