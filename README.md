@@ -13,7 +13,7 @@
 
 I'm a Software Engineer, currently working for Telia while aquiring a Bachelor degree. 
 
-I develop full-stack applications, interested in Blockchain, Solidity, and Full Stack Web3 Development development.
+I develop full-stack applications, aside from React/Redux, Node, TypeScript, Java and Databases management, I also interested in Blockchain, Solidity, and Full Stack Web3 Development development.
 
 I'm here to enhance my coding skills, I want to do great things with data prowess, gym rat, football enthusiast, and life enthusiast.
 
