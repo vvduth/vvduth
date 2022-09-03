@@ -13,9 +13,9 @@
 
 I'm a Software Engineer, currently working for Telia while aquiring a Bachelor degree. 
 
-I develop full-stack applications, interested in BlockChain developent.
+I develop full-stack applications, interested in BlockChain development.
 
-I'm here to imporve my coding skills, I want to do great things with data prowess, gym rat, football enthusiast, and life enthusiast.
+I'm here to enhance my coding skills, I want to do great things with data prowess, gym rat, football enthusiast, and life enthusiast.
 
 I post most of my gym process and football training sessions on Youtube and twitter.
 
