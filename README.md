@@ -5,13 +5,14 @@
 [![Duc Thai Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TLhXttv1mVg)
 [![Duc Thai Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/profhus)
 
+
 <a href="https://github.com/vvduth">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/vvduth?style=social">
 </a>
 
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I'm a Software Engineer, currently working for Telia while aquiring a Bachelor degree. 
+I'm a Software Engineer, currently working for [![Duc Thai Twitter](https://img.shields.io/badge/Telia-d580ff?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.telia.fi/) while aquiring a Bachelor degree. 
 
 I develop full-stack applications, main stack is React/Redux, Node, TypeScript, Docker.
 
