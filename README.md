@@ -3,7 +3,7 @@
 
 [![Duc Thai Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-thai-b069b115a/)
 [![Duc Thai Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TLhXttv1mVg)
-[![Duc Thai Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/profhus)
+[![Duc Thai Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pukeduke123)
 
 
 <a href="https://github.com/vvduth">
