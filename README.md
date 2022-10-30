@@ -12,15 +12,15 @@
 
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I'm a Software Engineer, currently working for [![Duc Thai Twitter](https://img.shields.io/badge/Telia-d580ff?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.telia.fi/) while aquiring a Bachelor degree. 
+Software Developer, currently working for [![Duc Thai Twitter](https://img.shields.io/badge/Telia-d580ff?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.telia.fi/) while aquiring a Bachelor degree. 
 
-I develop full-stack applications, main stack is React/Redux, Node, TypeScript, Docker.
+Built and deploy full-stack applications, main stack is React/Redux, Node, TypeScript, Docker.
 
 Certified AWS Cloud Practitioner. 
 
-I also interested in Blockchain, Solidity, and Full Stack Web3 Development.
+Interested in Blockchain, Solidity, and Full Stack Web3 Development.
 
-I'm here to enhance my coding skills, I want to do great things with data prowess, gym rat, football enthusiast, and life enthusiast.
+Here to enhance my coding skills, I want to do great things with data prowess, gym rat, football enthusiast, and life enthusiast.
 
 I post most of my gym process and football training sessions on Youtube and twitter.
 
