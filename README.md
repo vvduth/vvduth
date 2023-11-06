@@ -1,5 +1,5 @@
 <h1 align="center">Greeting👋</h1>
-<h3 align="center">Baller ⚽, Dev/Engineer, Hustler</h3>
+<h3 align="center"> Dev/Engineer</h3>
 
 [![Duc Thai Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-thai-b069b115a/)
 [![Duc Thai Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TLhXttv1mVg)
