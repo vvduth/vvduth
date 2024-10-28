@@ -10,17 +10,25 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/vvduth?style=social">
 </a>
 
-<!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
+### 👨‍💻 About Me
+I’m a full-stack developer based in Tampere, Finland, with expertise in **React**, **Next.js**, **Node.js**, **Java**, **Spring Boot**, and **MongoDB**. Currently, I’m a certificate authority developer and have honed my skills in building robust, secure, and scalable applications.
 
-Software Developer, currently working for [![Duc Thai Twitter](https://img.shields.io/badge/Telia-d580ff?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.telia.fi/) while aquiring a Bachelor degree. 
+- 🎓 **Bachelor’s in Software Engineering** from Tampere University of Applied Sciences with a GPA of 4.29/5.
+- 🏗️ Strong foundation in DevOps with hands-on experience in **Docker**, **Jenkins**, and **Terraform**.
+- 🔍 Exploring new technologies like **Web3 Development**, **AI integration**, and **Cloud Computing** with AWS.
 
-Built and deploy full-stack applications, main stack is React/Redux, Node, TypeScript, Docker.
+### 🔧 Tech Stack
+- **Frontend**: React, Next.js, Redux, TypeScript
+- **Backend**: Node.js, Express, Java, Spring Boot
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **DevOps**: Docker, Jenkins, AWS, Linux, Bash, Terraform
 
-Certified AWS Cloud Practitioner. 
+### 🌱 Current Goals
+I’m diving deeper into DevOps practices, automating workflows, and optimizing cloud infrastructure. I am also working on building mobile applications using React Native and Android Studio, and improving my Finnish language skills!
 
-Interested in Blockchain, Solidity, and Full Stack Web3 Development.
+### 🤝 Let's Connect
+I’m eager to collaborate and share ideas in the tech community. Check out my work or feel free to reach out on LinkedIn!
 
-Here to enhance my coding skills, I want to do great things with data prowess, gym rat, martial arts enthusiast, and life enthusiast.
 
 
 ## Reading stats
