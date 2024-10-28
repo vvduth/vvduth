@@ -20,9 +20,8 @@ Certified AWS Cloud Practitioner.
 
 Interested in Blockchain, Solidity, and Full Stack Web3 Development.
 
-Here to enhance my coding skills, I want to do great things with data prowess, gym rat, football enthusiast, and life enthusiast.
+Here to enhance my coding skills, I want to do great things with data prowess, gym rat, martial arts enthusiast, and life enthusiast.
 
-I post most of my gym process and football training sessions on Youtube and twitter.
 
 ## Reading stats
 
